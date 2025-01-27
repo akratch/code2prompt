@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Outputs
+context.md

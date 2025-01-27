@@ -1,0 +1,29 @@
+# Common ignore patterns
+.env
+*.env
+*.lock
+*.log
+*.bin
+*.hex
+*.pdf
+*.jpg
+*.png
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
+*.ini
+*.ignore
+*.md
+code2llm.py
+.content.ignore
+
+# Directories to ignore
+node_modules/
+__pycache__/
+.vscode/
+.idea/
+dist/
+build/
+bin/
+obj/
